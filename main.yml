@@ -1,0 +1,19 @@
+name: Food Delivery Performance Analysis Dashboard
+version: 1.0
+description: Interactive Excel dashboard analyzing food delivery performance data.
+
+author:
+  name: Pavithra Rajendran
+  role: Business Analyst
+  tools:
+    - Excel
+    - Data Visualization
+    - Data Cleaning
+    - Data exploration
+
+project_files:
+  - Food_Delivery_Analysis_Problem_Statement.pdf
+  - Food Delivery Analysis Cleaned Data.xlsx
+  - Food_Delivery_Reports.xlsx
+  - Food Delivery Analysis Dashboard.pdf
+ 
